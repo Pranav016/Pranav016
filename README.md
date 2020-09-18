@@ -9,12 +9,11 @@
 - 📫 How to reach me: [Email](pranavmendi@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: There are more stars in the universe than grains of sand on all the beaches on Earth.
-</br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pranav016" alt="pranav016" /> </p>
-</br>
 <p align="center">
 <a href="https://linkedin.com/in/pranav-mendiratta-89713a173" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranav-mendiratta-89713a173" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/13422979/pranav-m7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13422979/pranav-m7" height="30" width="30" /></a>
 <a href="https://medium.com/@pranav016" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pranav016" height="30" width="30" /></a>
 </p>
 </br>
@@ -22,4 +21,4 @@
 [![Top Langs](https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=Pranav016&layout=compact)](https://github.com/Pranav016/Pranav016.git)
 </br>
 
-![Pranav's github stats](https://github-readme-stats-eta-seven.vercel.app/api?username=Pranav016&show_icons=true&theme=tokyonight)
+![Pranav's github stats](https://github-readme-stats-eta-seven.vercel.app/api?username=Pranav016&show_icons=true)
