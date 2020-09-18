@@ -1,23 +1,25 @@
 # Hello, geeks!
-I am Pranav, currently in my Junior year with a major in Computer Science. I am a tech head and am constantly trying to learn about new technologies everyday.
+#### I am Pranav, currently in my Junior year with a major in Computer Science. I am a tech head and am constantly trying to learn about new technologies everyday.
 
 
 - 🌱 I’m currently learning DS-algo
 - 👯 I’m looking to collaborate on Web-Dev
 - 🤔 I’m looking for help with Web-Dev
 - 💬 Ask me about Technology and Sports
-- 📫 How to reach me: ![Pranav](pranavmendi@gmail.com)
+- 📫 How to reach me: [Email](pranavmendi@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The first computer ‘bug’ was an actual bug! A dead moth caused a malfunction inside an early computer in 1947.
+- ⚡ Fun fact: There are more stars in the universe than grains of sand on all the beaches on Earth.
+</br>
 
-**Checkout my ![Medium](https://medium.com/@pranav016) articles**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pranav016" alt="pranav016" /> </p>
+</br>
+<p align="center">
+<a href="https://linkedin.com/in/pranav-mendiratta-89713a173" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranav-mendiratta-89713a173" height="30" width="30" /></a>
+<a href="https://medium.com/@pranav016" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pranav016" height="30" width="30" /></a>
+</p>
+</br>
 
-<html>
-    <body style="text-align:center;">
-    ![View Counts](https://enc9x3u8njrhtbm.m.pipedream.net)
-    </body>
-</html>
+[![Top Langs](https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=Pranav016&layout=compact)](https://github.com/Pranav016/Pranav016.git)
+</br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav016&layout=compact)](https://github.com/Pranav016/Pranav016.git)
-
-![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Pranav016&show_icons=true&theme=tokyonight)
+![Pranav's github stats](https://github-readme-stats-eta-seven.vercel.app/api?username=Pranav016&show_icons=true&theme=tokyonight)
