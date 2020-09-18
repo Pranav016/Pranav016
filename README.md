@@ -2,7 +2,7 @@
 #### I am Pranav, currently in my Junior year with a major in Computer Science. I am a tech head and am constantly trying to learn about new technologies everyday.
 
 
-- 🌱 I’m currently learning DS-algo
+- 🌱 I’m currently brushing up DS-algo
 - 👯 I’m looking to collaborate on Web-Dev
 - 🤔 I’m looking for help with Web-Dev
 - 💬 Ask me about Technology and Sports
