@@ -1,5 +1,5 @@
 # Hello, geeks!
-#### I am Pranav, currently in my Junior year with a major in Computer Science. I am a tech head and am constantly trying to learn about new technologies everyday.
+#### I am Pranav, currently in my Junior year pursuing a major in Computer Science. I am a tech head and am constantly trying to learn about new technologies everyday.
 
 
 - 🌱 I’m currently brushing up DS-algo
