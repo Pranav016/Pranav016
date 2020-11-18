@@ -19,6 +19,7 @@
 </br>
 
 <div style="margin:auto">
+
 [![Top Langs](https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=Pranav016&layout=compact)](https://github.com/Pranav016/Pranav016.git)
 </br>
 
