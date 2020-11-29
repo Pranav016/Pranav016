@@ -2,9 +2,8 @@
 #### I am Pranav, currently in my Junior year, pursuing a major in Computer Science. I am a tech head and am constantly trying to learn about new technologies everyday.
 
 
-- 🌱 I’m currently brushing up DS-algo
+- 🌱 I’m currently working with WebDev
 - 👯 I’m looking to collaborate on Web-Dev
-- 🤔 I’m looking for help with Web-Dev
 - 💬 Ask me about Technology and Sports
 - 📫 How to reach me: [Email](pranavmendi@gmail.com)
 - 😄 Pronouns: he/him
