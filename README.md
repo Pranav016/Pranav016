@@ -5,7 +5,7 @@
 - 🌱 I’m currently working with WebDev
 - 👯 I’m looking to collaborate on Web-Dev
 - 💬 Ask me about Technology and Sports
-- 📫 How to reach me: [Email](pranavmendi@gmail.com)
+- 📫 How to reach me: <a href = "mailto: pranavmendi@gmail.com">Email</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: There are more stars in the universe than grains of sand on all the beaches on Earth.
 
