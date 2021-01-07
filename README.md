@@ -1,6 +1,6 @@
-# Hello, geeks!
-#### I am Pranav, currently in my Junior year, pursuing a major in Computer Science. I am a tech head and am constantly trying to learn about new technologies everyday.
+<h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, geeks! </h1>
 
+#### I am Pranav, currently in my Junior year, pursuing a major in Computer Science. I am a tech head and am constantly trying to learn about new technologies everyday.
 
 - 🌱 I’m currently working with WebDev
 - 👯 I’m looking to collaborate on Web-Dev
@@ -24,5 +24,5 @@
 </br>
 
 
-![Pranav's github stats](https://github-readme-stats-eta-seven.vercel.app/api?username=Pranav016&show_icons=true)
+![Pranav's github stats](https://github-readme-stats-eta-seven.vercel.app/api?username=Pranav016&show_icons=true&count_private=true)
 <div>
