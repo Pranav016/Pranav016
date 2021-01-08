@@ -50,14 +50,3 @@
 - Mentee at [Script Winter of Code](https://swoc.tech/) by Script Foundation
 
 </div>
-
-<style>
-div{
-    margin-bottom: 3vh;
-}
-.icon{
-    height:60px;
-    width: 60px;
-    padding: 0px 3vh;
-}
-</style>
