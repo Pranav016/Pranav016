@@ -21,11 +21,11 @@
 
 <div align="center">
 <p>
-<a href="https://linkedin.com/in/pranav-mendiratta-89713a173" target="blank"><img class="icon" src="assets/linkedin.png" /></a>
-<a href="https://dev.to/pranav016" target="blank"><img class="icon" src="assets/dev.png" /></a>
-<a href="https://stackoverflow.com/users/13422979/pranav-m7?tab=profile" target="blank"><img class="icon" src="assets/stack-overflow.png" /></a>
-<a href="https://medium.com/@pranav016" target="blank"><img class="icon" src="assets/medium.png" /></a>
-<a href="https://twitter.com/Pranav046" target="blank"><img class="icon" src="assets/twitter.png" /></a>
+<a href="https://linkedin.com/in/pranav-mendiratta-89713a173" target="blank"><img height=60 width=60 style="padding:3vh" src="assets/linkedin.png" /></a>
+<a href="https://dev.to/pranav016" target="blank"><img height=60 width=60 style="padding:3vh" src="assets/dev.png" /></a>
+<a href="https://stackoverflow.com/users/13422979/pranav-m7?tab=profile" target="blank"><img height=60 width=60 style="padding:3vh" src="assets/stack-overflow.png" /></a>
+<a href="https://medium.com/@pranav016" target="blank"><img height=60 width=60 style="padding:3vh" src="assets/medium.png" /></a>
+<a href="https://twitter.com/Pranav046" target="blank"><img height=60 width=60 style="padding:3vh" src="assets/twitter.png" /></a>
 <p>
 </div>
 
