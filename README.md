@@ -45,6 +45,8 @@
 
 <h2>Open Source work- </h2>
 
+<img style="height:15vh; width:15vh; float:right; margin:0 5vw;" src="assets/WoC-Mentor.jpg">
+
 - Amongst top 5 contributors at [NJACK Winter of Code](https://github.com/NJACKWinterOfCode) by IIT Patna
 - Contributor in [Winter of Code](https://github.com/WinterOfCode) by Netaji Subhash Engineering College
 - Mentee at [Script Winter of Code](https://swoc.tech/) by Script Foundation
