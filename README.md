@@ -45,9 +45,12 @@
 
 <h2>Open Source work- </h2>
 
-<img height="90px" align="right" style="margin:5px;" src="assets/WoC-Mentor.jpg">
-<img height="90px" align="right" style="margin:5px;" src="assets/jwoc.png">
-<img height="90px" align="right" style="margin:5px;" src="assets/gssoc.png">
+<div align="center">
+<img height="90px" style="margin:5px;" src="assets/WoC-Mentor.jpg">
+<img height="90px" style="margin:5px;" src="assets/jwoc.png">
+<img height="90px" style="margin:5px;" src="assets/gssoc.png">
+<img height="90px" width="90px" style="margin:5px;" src="assets/mexili.png">
+</div>
 
 - Open Source Mentor at [Winter of Code'21 by IIIT Kalyani](https://github.com/DSC-IIIT-Kalyani)
 - Mentor and Project Administrator at [JGEC Winter of Code](https://github.com/JGEC-Winter-of-Code)
