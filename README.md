@@ -5,7 +5,7 @@
 <div>
 
 - 🌱 I’m currently working with ReactJs
-- 👯 I’m looking to collaborate on BlogSite
+- 👯 I’m looking to collaborate on Krishi-Kalyan
 - 💬 Ask me about Technology and Sports
 - 📫 How to reach me: <a href = "mailto: pranavmendi@gmail.com">Email</a>
 - 😄 Pronouns: he/him
@@ -47,11 +47,13 @@
 
 <img height="90px" align="right" style="margin:5px;" src="assets/WoC-Mentor.jpg">
 <img height="90px" align="right" style="margin:5px;" src="assets/jwoc.png">
+<img height="90px" align="right" style="margin:5px;" src="assets/gssoc.png">
 
 - Open Source Mentor at [Winter of Code'21 by IIIT Kalyani](https://github.com/DSC-IIIT-Kalyani)
 - Mentor and Project Administrator at [JGEC Winter of Code](https://github.com/JGEC-Winter-of-Code)
 - Amongst top 5 contributors at [NJACK Winter of Code](https://github.com/NJACKWinterOfCode) by IIT Patna
 - Contributor at [TesseractCoding](https://github.com/TesseractCoding) under [Winter of Code](https://github.com/WinterOfCode) by Netaji Subhash Engineering College
+- Mentor and Project Administrator at [GirlScript Summer of Code'21](https://gssoc.girlscript.tech/index.html#about)
 - Mentee at [Script Winter of Code](https://swoc.tech/) by Script Foundation
 
 </div>
