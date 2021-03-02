@@ -49,6 +49,8 @@
 <img height="90px" style="margin:5px;" src="assets/WoC-Mentor.jpg">
 <img height="90px" style="margin:5px;" src="assets/jwoc.png">
 <img height="90px" style="margin:5px;" src="assets/gssoc.png">
+<img height="90px" style="margin:5px;" src="assets/nwoc.png">
+<img height="90px" style="margin:5px;" src="assets/tesseract.jpeg">
 <img height="90px" width="90px" style="margin:5px;" src="assets/mexili.png">
 </div>
 
