@@ -9,7 +9,7 @@
 - 💬 Ask me about Technology and Sports
 - 📫 How to reach me: <a href = "mailto: pranavmendi@gmail.com">Email</a>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: There are more stars in the universe than grains of sand on all the beaches on Earth.
+- ⚡ Fun fact: I have played football at the state level and have also won multiple district championships.
 
 </div>
 
