@@ -9,49 +9,47 @@
 - 💬 Ask me about Technology and Sports
 - 📫 How to reach me: <a href = "mailto: pranavmendi@gmail.com">Email</a>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have played football at the state level and have also won multiple district championships.
+- ⚡ Fun fact about me: I have played football at the state level and have also won multiple district championships.  
 
-</div>
+<hr>
 
 <div align="center">
+  <h1>Connect With Me :inbox_tray: </h1>
+  
+  <a href="https://linkedin.com/in/pranav-mendiratta-89713a173" target="blank"><img height=65 width=65 style="padding:5vw" src="assets/linkedin.png" /></a>
+  <a href="https://dev.to/pranav016" target="blank"><img height=65 width=65 style="padding:5vw" src="assets/dev.png" /></a>
+  <a href="https://stackoverflow.com/users/13422979/pranav-m7?tab=profile" target="blank"><img height=65 width=65 style="padding:5vw" src="assets/stack-overflow.png" /></a>
+  <a href="https://medium.com/@pranav016" target="blank"><img height=65 width=65 style="padding:5vw" src="assets/medium.png" /></a>
+  <a href="https://twitter.com/Pranav046" target="blank"><img height=65 width=65 style="padding:5vw" src="assets/twitter.png" /></a>  
+</div>
+
+<hr>
+
+<div align="center">
+  <h1>GitHub Statistics :bar_chart: </h1>
 
 <img src="https://komarev.com/ghpvc/?username=pranav016" alt="pranav016" />
 
-</div>
-
-<div align="center">
-<p>
-<a href="https://linkedin.com/in/pranav-mendiratta-89713a173" target="blank"><img height=60 width=60 style="padding:3vh" src="assets/linkedin.png" /></a>
-<a href="https://dev.to/pranav016" target="blank"><img height=60 width=60 style="padding:3vh" src="assets/dev.png" /></a>
-<a href="https://stackoverflow.com/users/13422979/pranav-m7?tab=profile" target="blank"><img height=60 width=60 style="padding:3vh" src="assets/stack-overflow.png" /></a>
-<a href="https://medium.com/@pranav016" target="blank"><img height=60 width=60 style="padding:3vh" src="assets/medium.png" /></a>
-<a href="https://twitter.com/Pranav046" target="blank"><img height=60 width=60 style="padding:3vh" src="assets/twitter.png" /></a>
-<p>
-</div>
-
-<div align="center">
-
 [![Top Langs](https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=Pranav016&layout=compact)](https://github.com/Pranav016/Pranav016.git)
 
-</div>
-
-<div align="center">
-
-![Pranav's github stats](https://github-readme-stats-eta-seven.vercel.app/api?username=Pranav016&show_icons=true&count_private=true)
+![Pranav's github stats](https://github-readme-stats-eta-seven.vercel.app/api?username=Pranav016&show_icons=true&count_private=true)  
 
 </div>
+
+<hr>
 
 <div>
-
-<h2>Open Source work- </h2>
-
 <div align="center">
-<img height="90px" style="margin:5px;" src="assets/WoC-Mentor.jpg">
-<img height="90px" style="margin:5px;" src="assets/jwoc.png">
-<img height="90px" style="margin:5px;" src="assets/gssoc.png">
-<img height="90px" style="margin:5px;" src="assets/nwoc.png">
-<img height="90px" style="margin:5px;" src="assets/tesseract.jpeg">
-<img height="90px" width="90px" style="margin:5px;" src="assets/mexili.png">
+
+  <h2>Open Source work- </h2>
+
+  <img height="90px" style="margin:5px;" src="assets/WoC-Mentor.jpg">
+  <img height="90px" style="margin:5px;" src="assets/jwoc.png">
+  <img height="90px" style="margin:5px;" src="assets/gssoc.png">
+  <img height="90px" style="margin:5px;" src="assets/nwoc.png">
+  <img height="90px" style="margin:5px;" src="assets/tesseract.jpeg">
+  <img height="90px" width="90px" style="margin:5px;" src="assets/mexili.png">
+  
 </div>
 
 - Open Source Mentor at [Winter of Code'21 by IIIT Kalyani](https://github.com/DSC-IIIT-Kalyani)
