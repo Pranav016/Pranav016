@@ -1,3 +1,5 @@
+<img src="assets/banner.png">
+
 <h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello geeks! </h1>
 
 #### I am Pranav, currently in my Junior year, pursuing a major in Computer Science. I am a tech head and am constantly trying to learn about new technologies everyday.
@@ -5,7 +7,7 @@
 <div>
 
 -   🌱 I’m currently working with React.js
--   👯 I’m looking to collaborate on WordNook
+-   👯 I’m looking to collaborate on `WordNook`
 -   💬 Ask me about Technology and Sports
 -   📫 How to reach me: <a href = "mailto: pranavmendi@gmail.com">Email</a>
 -   😄 Pronouns: he/him
