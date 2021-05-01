@@ -31,7 +31,9 @@
 
 <div align="center">
   <h1>Tech Skills :computer: </h1>
-<i class="devicon-bootstrap-plain colored"></i> <i class="devicon-c-plain colored"></i> <i class="devicon-cplusplus-plain colored"></i> <i class="devicon-html5-plain colored"></i> <i class="devicon-css3-plain colored"></i> <i class="devicon-javascript-plain colored"></i> <i class="devicon-git-plain colored"></i> <i class="devicon-github-original colored"></i> <i class="devicon-heroku-plain colored"></i> <i class="devicon-jupyter-plain colored"></i> <i class="devicon-nodejs-plain colored"></i> <i class="devicon-python-plain colored"></i> <i class="devicon-react-original colored"></i> <i class="devicon-yarn-plain colored"></i> <i class="devicon-vim-plain colored"></i> <i class="devicon-mongodb-plain colored"></i>
+
+![B](https://icongr.am/devicon/c-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/cplusplus-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/html5-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/css3-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/bootstrap-plain.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/javascript-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/yarn-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/git-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/react-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/github-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/heroku-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/nodejs-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/python-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/mongodb-original.svg?size=55&color=563d7c)
+
 </div>
 
 <hr>
@@ -72,5 +74,3 @@
 - Mentee at [Script Winter of Code](https://swoc.tech/) by Script Foundation
 
 </div> -->
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
