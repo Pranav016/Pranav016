@@ -7,7 +7,7 @@
 <div>
 
 -   🌱 I’m currently working with React.js
--   👯 I’m looking to collaborate on `WordNook`
+-   👯 I’m looking to collaborate on [WordNook](https://github.com/ALPHAVIO/WordNook)
 -   💬 Ask me about Technology and Sports
 -   📫 How to reach me: <a href = "mailto: pranavmendi@gmail.com">Email</a>
 -   😄 Pronouns: he/him
