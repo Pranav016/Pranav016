@@ -47,6 +47,8 @@
 
 ![Pranav's github stats](https://github-readme-stats-git-master-pranav016.vercel.app/api?username=Pranav016&show_icons=true&count_private=true)
 
+[![Pranav's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranav016&theme=xcode)](https://github.com/pranav016)
+
 </div>
 
 <!-- <hr>
