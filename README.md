@@ -43,11 +43,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=pranav016" alt="pranav016" />
 
-[![Top Langs](https://github-readme-stats-git-master-pranav016.vercel.app/api/top-langs/?username=Pranav016&layout=compact)](https://github.com/Pranav016/Pranav016.git)
-
-![Pranav's github stats](https://github-readme-stats-git-master-pranav016.vercel.app/api?username=Pranav016&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats-git-master-pranav016.vercel.app/api/top-langs/?username=Pranav016&theme=tokyonight&layout=compact)](https://github.com/Pranav016/Pranav016.git) ![Pranav's github stats](https://github-readme-stats-git-master-pranav016.vercel.app/api?username=Pranav016&theme=tokyonight&show_icons=true&count_private=true)
 
 [![Pranav's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranav016&theme=xcode)](https://github.com/pranav016)
+
 
 </div>
 
