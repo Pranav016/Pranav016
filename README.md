@@ -32,7 +32,7 @@
 <div align="center">
   <h1>Tech Skills :computer: </h1>
 
-![B](https://icongr.am/devicon/c-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/cplusplus-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/html5-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/css3-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/bootstrap-plain.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/javascript-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/yarn-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/git-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/react-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/github-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/heroku-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/nodejs-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/python-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/mongodb-original.svg?size=55&color=563d7c)
+![B](https://icongr.am/devicon/c-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/cplusplus-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/html5-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/css3-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/bootstrap-plain.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/javascript-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/yarn-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/git-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/react-original.svg?size=55&color=563d7c) ![B](https://icongr.am/octicons/mark-github.svg?size=55&color=949494) ![B](https://icongr.am/devicon/heroku-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/nodejs-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/python-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/mongodb-original.svg?size=55&color=563d7c)
 
 </div>
 
@@ -42,11 +42,11 @@
   <h1>GitHub Statistics :bar_chart: </h1>
 
 <img src="https://komarev.com/ghpvc/?username=pranav016" alt="pranav016" />
-<br>
+<br><br>
 
 [![Top Langs](https://github-readme-stats-git-master-pranav016.vercel.app/api/top-langs/?username=Pranav016&theme=tokyonight&layout=compact)](https://github.com/Pranav016/Pranav016.git) ![Pranav's github stats](https://github-readme-stats-git-master-pranav016.vercel.app/api?username=Pranav016&theme=tokyonight&show_icons=true&count_private=true)
 
-[![Pranav's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranav016&theme=xcode)](https://github.com/pranav016)
+[![Pranav's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranav016&theme=react-dark)](https://github.com/pranav016)
 
 </div>
 
