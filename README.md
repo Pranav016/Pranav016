@@ -7,15 +7,18 @@
 <div>
 
 -   🌱 I’m currently working with React.js
--   👯 I’m looking to collaborate on [WordNook](https://github.com/ALPHAVIO/WordNook)
+-   👯 I’m looking to collaborate on [Mirage UI](https://github.com/ALPHAVIO/Mirage-UI)
 -   💬 Ask me about Technology and Sports
 -   📫 How to reach me: <a href = "mailto: pranavmendi@gmail.com">Email</a>
 -   😄 Pronouns: he/him
 -   ⚡ Fun fact about me: I have played football at the state level and have also won multiple district championships.
 
+<div align="center">
+  
+![Pranav016](https://metrics.lecoq.io/Pranav016?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
+  
 <hr>
 
-<div align="center">
   <h1>Connect With Me :inbox_tray: </h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-mendiratta) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pranav016) [![Stack-Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13422979/pranav-m7?tab=profile) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Pranav#8006) [![Dev-to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/pranav016) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pranav046)
@@ -45,7 +48,7 @@
 <br><br>
 
 [![Top Langs](https://github-readme-stats-git-master-pranav016.vercel.app/api/top-langs/?username=Pranav016&theme=tokyonight&layout=compact)](https://github.com/Pranav016/Pranav016.git) ![Pranav's github stats](https://github-readme-stats-git-master-pranav016.vercel.app/api?username=Pranav016&theme=tokyonight&show_icons=true&count_private=true)
-
+  
 [![Pranav's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranav016&theme=react-dark)](https://github.com/pranav016)
 
 </div>
