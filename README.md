@@ -47,8 +47,19 @@
 <img src="https://komarev.com/ghpvc/?username=pranav016" alt="pranav016" />
 <br><br>
 
-[![Top Langs](https://github-readme-stats-git-master-pranav016.vercel.app/api/top-langs/?username=Pranav016&theme=tokyonight&layout=compact)](https://github.com/Pranav016/Pranav016.git) ![Pranav's github stats](https://github-readme-stats-git-master-pranav016.vercel.app/api?username=Pranav016&theme=tokyonight&show_icons=true&count_private=true)
-  
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-git-master-pranav016.vercel.app/api/top-langs/?username=Pranav016&theme=tokyonight&layout=compact">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-git-master-pranav016.vercel.app/api?username=Pranav016&theme=tokyonight&show_icons=true&count_private=true">
+    </td>
+  </tr>
+</table>
+
+<!-- [![Top Langs](https://github-readme-stats-git-master-pranav016.vercel.app/api/top-langs/?username=Pranav016&theme=tokyonight&layout=compact)](https://github.com/Pranav016/Pranav016.git) ![Pranav's github stats](https://github-readme-stats-git-master-pranav016.vercel.app/api?username=Pranav016&theme=tokyonight&show_icons=true&count_private=true) -->
+
 [![Pranav's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranav016&theme=react-dark)](https://github.com/pranav016)
 
 </div>
