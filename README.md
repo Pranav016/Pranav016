@@ -69,29 +69,3 @@
 [![Pranav's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranav016&theme=react-dark)](https://github.com/pranav016)
 
 </div>
-
-<!-- <hr>
-
-<div>
-<div align="center">
-
-  <h1>Open Source Work</h1>
-
-  <img height="90px" style="margin:5px;" src="assets/WoC-Mentor.jpg">
-  <img height="90px" style="margin:5px;" src="assets/jwoc.png">
-  <img height="90px" style="margin:5px;" src="assets/gssoc.png">
-  <img height="90px" style="margin:5px;" src="assets/nwoc.png">
-  <img height="90px" style="margin:5px;" src="assets/tesseract.jpeg">
-  <img height="90px" width="90px" style="margin:5px;" src="assets/mexili.png">
-
-</div>
-
-- Open Source Mentor at [Winter of Code'21 by IIIT Kalyani](https://github.com/DSC-IIIT-Kalyani)
-- Mentor and Project Administrator at [JGEC Winter of Code](https://github.com/JGEC-Winter-of-Code)
-- Amongst top 5 contributors at [NJACK Winter of Code](https://github.com/NJACKWinterOfCode) by IIT Patna
-- Mentor and Project Administrator at [Mexili Winter of Code](https://github.com/mexili/winter_of_code/blob/main/docs/mentors.md)
-- Contributor at [TesseractCoding](https://github.com/TesseractCoding) under [Winter of Code](https://github.com/WinterOfCode) by Netaji Subhash Engineering College
-- Mentor and Project Administrator at [GirlScript Summer of Code'21](https://gssoc.girlscript.tech/index.html#about)
-- Mentee at [Script Winter of Code](https://swoc.tech/) by Script Foundation
-
-</div> -->
