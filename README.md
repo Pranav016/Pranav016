@@ -1,6 +1,6 @@
 <img src="assets/banner.png">
 
-<h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello geeks! </h1>
+<h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px" width="30px"> Hello geeks! </h1>
 
 #### I am Pranav, currently in my Senior year, pursuing a major in Computer Science. I am a tech head and am constantly trying to learn about new technologies everyday.
 
